@@ -1,0 +1,93 @@
+{
+  "updated_at": "2025-12-05 10:31:56",
+  "etfs": [
+    {
+      "ticker": "SCHD",
+      "name": "Schwab US Dividend Equity",
+      "price": 39754,
+      "yield": 3.72,
+      "risk": "안정형",
+      "sector": "다우존스"
+    },
+    {
+      "ticker": "DGRO",
+      "name": "iShares Core Dividend Growth",
+      "price": 99914,
+      "yield": 2.03,
+      "risk": "안정형",
+      "sector": "배당성장"
+    },
+    {
+      "ticker": "VIG",
+      "name": "Vanguard Dividend Appreciation",
+      "price": 317274,
+      "yield": 1.64,
+      "risk": "안정형",
+      "sector": "배당성장"
+    },
+    {
+      "ticker": "JEPI",
+      "name": "JPMorgan Equity Premium",
+      "price": 82196,
+      "yield": 8.37,
+      "risk": "중립형",
+      "sector": "커버드콜"
+    },
+    {
+      "ticker": "JEPQ",
+      "name": "JPMorgan Nasdaq Equity Premium",
+      "price": 83769,
+      "yield": 10.57,
+      "risk": "중립형",
+      "sector": "나스닥커버드콜"
+    },
+    {
+      "ticker": "O",
+      "name": "Realty Income",
+      "price": 83240,
+      "yield": 5.52,
+      "risk": "안정형",
+      "sector": "리츠(부동산)"
+    },
+    {
+      "ticker": "MAIN",
+      "name": "Main Street Capital",
+      "price": 85771,
+      "yield": 5.05,
+      "risk": "중립형",
+      "sector": "BDC(금융)"
+    },
+    {
+      "ticker": "VNQ",
+      "name": "Vanguard Real Estate",
+      "price": 128986,
+      "yield": 3.7,
+      "risk": "안정형",
+      "sector": "리츠(부동산)"
+    },
+    {
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500",
+      "price": 899141,
+      "yield": 0.86,
+      "risk": "성장형",
+      "sector": "S&P500"
+    },
+    {
+      "ticker": "SPY",
+      "name": "SPDR S&P 500",
+      "price": 977962,
+      "yield": 0.83,
+      "risk": "성장형",
+      "sector": "S&P500"
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ",
+      "price": 891633,
+      "yield": 0.28,
+      "risk": "성장형",
+      "sector": "나스닥100"
+    }
+  ]
+}
